@@ -25,10 +25,10 @@ require_once( 'wp-rbuilt.php' );
 define('DB_NAME', 'kadunandi');
 
 /** MySQL database username */
-define('DB_USER', 'razorbee');
+define('DB_USER', 'read');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'razorbee123');
+define('DB_PASSWORD', 'Test135#');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
